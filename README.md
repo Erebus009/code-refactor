@@ -12,9 +12,9 @@ Pertaining to -
 
 
 <ul>
-<li>1. Refactoring a website to increase SEO capabilities.</li>
+<li> Refactoring a website to increase SEO capabilities.</li>
 
-<li>2. Learning and using good practice HTML semnatics.</li> 
+<li> Learning and using good practice HTML semnatics.</li> 
  
-<li>3. Checking over code to fix any errors and train in the use of good code documentation.</li>
+<li> Checking over code to fix any errors and train in the use of good code documentation.</li>
 </ul>
