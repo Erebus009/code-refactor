@@ -5,7 +5,7 @@ Link https://erebus009.github.io/code-refactor/
 
 ![](https://i.ibb.co/B4kBKBC/website.png)
 
-A project too practice the skills taught to me and the implementing of code documentation.
+A project practicing the skills taught in HTML/CSS.
 
 Skills pertaining to 
 
@@ -15,5 +15,5 @@ Skills pertaining to
 
 <li> Learning and using good practice HTML semnatics.</li> 
  
-<li> Checking over code to fix any errors and train in the use of good code documentation.</li>
+<li> Checking over code to fix any errors and the use of good code documentation.</li>
 </ul>
