@@ -1,5 +1,5 @@
      # code-refactor
-<h1> Refactoring a completed site to minimize code. <h1>
+<h1> Refactoring a completed site to minimize code. </h1>
 
 
 Link https://erebus009.github.io/code-refactor/
