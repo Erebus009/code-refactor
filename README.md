@@ -5,9 +5,9 @@ Link https://erebus009.github.io/code-refactor/
 
 ![](https://i.ibb.co/B4kBKBC/website.png)
 
-Using a class project to use on my own the skills taught to me in HTML/CSS.
+A project too practice the skills taught to me and the implementing of code documentation.
 
-Pertaining to -
+Skills pertaining to 
 
 
 <ul>
