@@ -6,9 +6,15 @@ Link https://erebus009.github.io/code-refactor/
 
 ![](https://i.ibb.co/B4kBKBC/website.png)
 
+Using a class project to use on my own the skills taught to me in HTML/CSS.
 
-1. Refactoring a website to increase SEO capabilities. 
+Pertaining to -
 
-2. Learning and using good practice HTML semnatics. 
+
+<ul>
+<li>1. Refactoring a website to increase SEO capabilities.</li>
+
+<li>2. Learning and using good practice HTML semnatics.</li> 
  
-3. Checking over code to fix any errors and train in the use of good code documentation
+<li>3. Checking over code to fix any errors and train in the use of good code documentation.</li>
+</ul>
